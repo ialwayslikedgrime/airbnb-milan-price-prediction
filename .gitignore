@@ -47,3 +47,5 @@ logs/
 *.tmp
 *.swp
 *.s
+
+src/
