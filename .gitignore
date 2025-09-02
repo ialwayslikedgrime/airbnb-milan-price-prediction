@@ -1,0 +1,49 @@
+# --- OS cruft ---
+.DS_Store
+.AppleDouble
+.Spotlight-V100
+.Trashes
+
+# --- Python / venvs ---
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+*.egg-info/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pyenv (keep .python-version if you WANT to pin Python version)
+#.python-version
+
+# --- Jupyter / notebooks ---
+.ipynb_checkpoints/
+# If you export big HTMLs, uncomment:
+# *.nbconvert.ipynb
+# *.html
+
+# --- IDEs ---
+.vscode/
+.idea/
+
+# --- Data folders (track empty dirs with .gitkeep if needed) ---
+data/raw/
+data/interim/
+data/processed/
+data/external/
+
+# --- Experiments / outputs (optional, add what you use) ---
+models/
+artifacts/
+outputs/
+reports/
+wandb/
+mlruns/
+logs/
+*.log
+
+# --- Temps ---
+*.tmp
+*.swp
+*.s
