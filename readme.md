@@ -1,3 +1,13 @@
+
+## Exploratory Data Analysis (EDA)
+
+Below is the median price per person by neighborhood in Milan (room type: Entire home/apt):
+
+![Median price per person by neighborhood](figures/median_price_per_person_Entire_home_apt.png)
+
+
+
+
 # Dataset Overview
 
 As an initial step, we load the datasets. Multiple datasets were downloaded from Inside Airbnb, including:

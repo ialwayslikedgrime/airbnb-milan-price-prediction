@@ -48,5 +48,5 @@ logs/
 *.swp
 *.s
 
-src/data/
+src/data/__pycache__/
 
