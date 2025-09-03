@@ -33,7 +33,7 @@ data/interim/
 data/processed/
 data/external/
 
-# --- Experiments / outputs (optional, add what you use) ---
+# --- Experiments / outputs (optional) ---
 models/
 artifacts/
 outputs/
@@ -48,4 +48,5 @@ logs/
 *.swp
 *.s
 
-src/
+src/data/
+
