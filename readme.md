@@ -103,6 +103,9 @@ I created price-per-person maps that revealed Milan's pricing geography:
 
 Using SHAP analysis, I identified the key factors:
 
+
+![SHAP Impact Direction](figures/shap_impact_direction.png)
+
 1. **Property Type (15.4% impact)**: Houses vs apartments makes the biggest difference
 2. **Room Type (9.4% impact)**: Entire home premium is substantial  
 3. **Capacity (7.7% impact)**: Accommodates scaling drives pricing power
@@ -125,10 +128,6 @@ This project taught me about working with real, messy data rather than clean aca
 The nested cross-validation was computationally expensive but gave me confidence in my model selection - I've seen too many projects where the "best" model was just overfit to a particular train/test split.
 
 Most importantly, I learned to think about the business context throughout the technical work. The price-per-person normalization, for example, made the geographic analysis much more meaningful for actual pricing decisions.
-
----
-
-The code and notebooks demonstrate my approach to handling complex, multi-source datasets and building interpretable models that provide actionable business insights rather than just good prediction scores.
 
 
 
