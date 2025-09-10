@@ -134,8 +134,6 @@ The nested cross-validation was computationally expensive but gave me confidence
 
 Most importantly, I learned to think about the business context throughout the technical work. The price-per-person normalization, for example, made the geographic analysis much more meaningful for actual pricing decisions.
 
+--- 
 
-
-
-
-
+by Stella Andorno (ialwayslikedgrime)
