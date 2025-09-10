@@ -50,3 +50,5 @@ logs/
 
 src/data/__pycache__/
 
+notebooks/04_price_per_person_model_selection_cross_validation_copia.ipynb
+notebooks/05_price_per_person_shap_analysis_copia.ipynb
