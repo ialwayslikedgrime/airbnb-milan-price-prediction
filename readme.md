@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![pandas](https://img.shields.io/badge/pandas-1.3+-purple.svg)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-Spatial%20Analysis-green.svg)
+
 # Airbnb Price Prediction in Milan: From Raw Data to Actionable Business Intelligence
 
 A machine learning pipeline I built to predict Airbnb listing prices in Milan, featuring geospatial analysis, nested cross-validation, and business insights. The final XGBoost model achieved R² = 0.587 with $34.51 median absolute error.
